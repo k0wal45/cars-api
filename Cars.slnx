@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="API/Cars.API.csproj" Id="f59932ff-5988-4b77-8d6a-7406f3d82559" />
+  <Project Path="Cars.Application/Cars.Application.csproj" Id="f7683b35-c547-47b0-b71c-e8a0e38f33f6" />
+  <Project Path="Cars.Domain/Cars.Domain.csproj" Id="65d0de83-f166-4a5d-91a2-5b103378ed0e" />
+  <Project Path="Cars.Infrastructure/Cars.Infrastructure.csproj" Id="758d5ad5-6e8f-47a1-a5c0-113d6d3f595e" />
+</Solution>
